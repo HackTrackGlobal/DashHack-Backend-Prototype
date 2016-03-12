@@ -1,5 +1,5 @@
-# DashHack Backend Prototype
-This is just a basic prototype for [DashHack Backend](http://github.com/HackTrackGlobal/DashHack-Backend).
+# Trackboard backend prototype
+This is just a basic prototype for [DashHack Backend](http://github.com/HackTrackGlobal/trackboard-backend).
 
 ## Running
 First, make sure to have `json-server` installed:
